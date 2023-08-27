@@ -1,0 +1,16 @@
+Electronic|LG G9|820|Innovative design with dual-screen|16|LG|
+Electronic|Galaxy S23|890|Latest flagship from Samsung|18|Samsung|
+Electronic|Xperia Z6|870|High-resolution audio and camera|14|Sony|
+Electronic|Pixel 6|850|Pure Android Experience with AI Camera|15|Google|
+Electronic|Iphone 14 Pro|999|High-end smartphone with dual-camera|12|Apple|
+Game|SuperRealm|49|A massive open-world fantasy game|13|4.8|
+Game|PixelQuest|29|Retro style pixel art adventure|7|4.2|
+Game|SpeedRacer 2023|59|High-speed racing with VR support|10|4.5|
+Game|Skyward Flight|39|Fly through breathtaking landscapes|8|4.0|
+Game|Dungeon Explorer|45|An action-packed dungeon crawler|16|4.6|
+Food|Bread|3|Freshly baked whole grain bread|12/31/2023|Wheat, Water, Yeast|
+Food|Pasta|5|Organic whole wheat pasta|11/10/2023|Whole wheat, Water|
+Food|Milk Chocolate|2|Smooth and creamy chocolate bar|01/15/2024|Milk, Cocoa, Sugar|
+Food|Apple Juice|4|100% pure apple juice|10/01/2023|Apples|
+Food|Cheese|6|Aged cheddar cheese|02/28/2024|Milk, Salt, Rennet|
+
